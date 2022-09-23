@@ -1,0 +1,15 @@
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_23_09_22\TASK41\bin\Debug\net6.0\TASK41.exe
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_23_09_22\TASK41\bin\Debug\net6.0\TASK41.deps.json
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_23_09_22\TASK41\bin\Debug\net6.0\TASK41.runtimeconfig.json
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_23_09_22\TASK41\bin\Debug\net6.0\TASK41.dll
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_23_09_22\TASK41\bin\Debug\net6.0\TASK41.pdb
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_23_09_22\TASK41\obj\Debug\net6.0\TASK41.csproj.AssemblyReference.cache
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_23_09_22\TASK41\obj\Debug\net6.0\TASK41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_23_09_22\TASK41\obj\Debug\net6.0\TASK41.AssemblyInfoInputs.cache
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_23_09_22\TASK41\obj\Debug\net6.0\TASK41.AssemblyInfo.cs
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_23_09_22\TASK41\obj\Debug\net6.0\TASK41.csproj.CoreCompileInputs.cache
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_23_09_22\TASK41\obj\Debug\net6.0\TASK41.dll
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_23_09_22\TASK41\obj\Debug\net6.0\refint\TASK41.dll
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_23_09_22\TASK41\obj\Debug\net6.0\TASK41.pdb
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_23_09_22\TASK41\obj\Debug\net6.0\TASK41.genruntimeconfig.cache
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_23_09_22\TASK41\obj\Debug\net6.0\ref\TASK41.dll
